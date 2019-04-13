@@ -1,15 +1,15 @@
 {
-  "main.css": "http://localhost:5000/api/static/css/main.c1cf9ea6.chunk.css",
-  "main.js": "http://localhost:5000/api/static/js/main.ded0c0d9.chunk.js",
-  "main.js.map": "http://localhost:5000/api/static/js/main.ded0c0d9.chunk.js.map",
-  "runtime~main.js": "http://localhost:5000/api/static/js/runtime~main.bc72c2af.js",
-  "runtime~main.js.map": "http://localhost:5000/api/static/js/runtime~main.bc72c2af.js.map",
-  "static/css/2.a03b8e12.chunk.css": "http://localhost:5000/api/static/css/2.a03b8e12.chunk.css",
-  "static/js/2.3c88afc0.chunk.js": "http://localhost:5000/api/static/js/2.3c88afc0.chunk.js",
-  "static/js/2.3c88afc0.chunk.js.map": "http://localhost:5000/api/static/js/2.3c88afc0.chunk.js.map",
-  "index.html": "http://localhost:5000/api/index.html",
-  "precache-manifest.0d4570d6d7d9241d4beb79ebc66b44d2.js": "http://localhost:5000/api/precache-manifest.0d4570d6d7d9241d4beb79ebc66b44d2.js",
-  "service-worker.js": "http://localhost:5000/api/service-worker.js",
-  "static/css/2.a03b8e12.chunk.css.map": "http://localhost:5000/api/static/css/2.a03b8e12.chunk.css.map",
-  "static/css/main.c1cf9ea6.chunk.css.map": "http://localhost:5000/api/static/css/main.c1cf9ea6.chunk.css.map"
+  "main.css": "/static/css/main.c1cf9ea6.chunk.css",
+  "main.js": "/static/js/main.d7599e89.chunk.js",
+  "main.js.map": "/static/js/main.d7599e89.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/css/2.a03b8e12.chunk.css": "/static/css/2.a03b8e12.chunk.css",
+  "static/js/2.b60d96dc.chunk.js": "/static/js/2.b60d96dc.chunk.js",
+  "static/js/2.b60d96dc.chunk.js.map": "/static/js/2.b60d96dc.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.6d788881745725d52f211fd10a6d7a05.js": "/precache-manifest.6d788881745725d52f211fd10a6d7a05.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.a03b8e12.chunk.css.map": "/static/css/2.a03b8e12.chunk.css.map",
+  "static/css/main.c1cf9ea6.chunk.css.map": "/static/css/main.c1cf9ea6.chunk.css.map"
 }
