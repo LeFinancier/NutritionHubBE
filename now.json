@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "name": "diet-client",
+  "alias": ["nutrition-hub.now.sh"],
+  "builds": [
+      { "src": "package.json", "use": "@now/node-server", "config": { "distDir": "build" } }
+  ],
+  "routes": [
+    {"headers": {
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
+      "Access-Control-Allow-Headers": "X-Requested-With, Content-Type, Accept"
+    },
+    "src": "/.*",
+    "dest": "/index.js" 
+  }]
+}
